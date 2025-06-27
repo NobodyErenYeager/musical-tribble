@@ -1,0 +1,96 @@
+01. Introduction & Setup
+	(1280, 720) | 01. Welcome To The Course.mp4
+	(1280, 720) | 02. Course Overview.mp4
+	(1280, 720) | 03. Creating The Project.mp4
+	(1280, 720) | 04. Game Architecture.mp4
+	(1280, 720) | 05. Project Settings.mp4
+02. Mobile Gameplay
+	(1280, 720) | 01. Section Intro - Mobile Gameplay.mp4
+	(1280, 720) | 02. Player Scene.mp4
+	(1280, 720) | 03. Horizontal Movement.mp4
+	(1280, 720) | 04. Teleporting On Edges.mp4
+	(1280, 720) | 05. Adding Gravity.mp4
+	(1280, 720) | 06. Platform Scene.mp4
+	(1280, 720) | 07. Player Jump.mp4
+	(1280, 720) | 08. Game Camera.mp4
+	(1280, 720) | 09. Camera Limits.mp4
+	(1280, 720) | 10. Level Generation Intro.mp4
+	(1280, 720) | 11. Creating The Ground.mp4
+	(1280, 720) | 12. Generating The Level.mp4
+	(1280, 720) | 13. Level Generate Function.mp4
+	(1280, 720) | 14. Infinite Level.mp4
+	(1280, 720) | 15. Level Gen Script.mp4
+	(1280, 720) | 16. Platform Destroyer.mp4
+	(1280, 720) | 17. Overlapping Platforms.mp4
+	(1280, 720) | 18. Small Things.mp4
+	(1280, 720) | 19. Parallax Background.mp4
+	(1280, 720) | 20. Better Parallax.mp4
+	(1280, 720) | 21. Wrap Up - Mobile Gameplay.mp4
+03. Exporting And Testing
+	(1280, 720) | 01. Section Intro - Exporting And Testing.mp4
+	(1280, 720) | 02. Exporting for iOS.mp4
+	(1280, 720) | 03. Active Development.mp4
+	(1280, 720) | 04. Developer Mode.mp4
+	(1280, 720) | 05. Exporting for Android.mp4
+	(1280, 720) | 06. Accelerometer Input.mp4
+	(1280, 720) | 07. Wrap Up - Exporting And Testing.mp4
+04. UI System
+	(1280, 720) | 01. Section Intro - UI System.mp4
+	(1280, 720) | 02. Debug Console.mp4
+	(1280, 720) | 03. Log Messages.mp4
+	(1280, 720) | 04. Title Screen.mp4
+	(1280, 720) | 05. Pause Screen.mp4
+	(1280, 720) | 06. Game Over Screen.mp4
+	(1280, 720) | 07. Handling Buttons.mp4
+	(1280, 720) | 08. Changing Screens.mp4
+	(1280, 720) | 09. Animating Screens.mp4
+	(1280, 720) | 10. Disabling Buttons.mp4
+	(1280, 720) | 11. The HUD.mp4
+	(1280, 720) | 12. Safe Area.mp4
+	(1280, 720) | 13. Screen Scale.mp4
+	(1280, 720) | 14. Wrap Up - UI System.mp4
+05. Putting It All Together
+	(1280, 720) | 01. Section Intro - Putting It All Together.mp4
+	(1280, 720) | 02. Play Button.mp4
+	(1280, 720) | 03. Lose Condition.mp4
+	(1280, 720) | 04. Show Game Over.mp4
+	(1280, 720) | 05. Game Over Back.mp4
+	(1280, 720) | 06. Game Over Retry.mp4
+	(1280, 720) | 07. Keeping Score.mp4
+	(1280, 720) | 08. High Score.mp4
+	(1280, 720) | 09. Saving High Score.mp4
+	(1280, 720) | 10. Pausing The Game.mp4
+	(1280, 720) | 11. Show Pause Screen.mp4
+	(1280, 720) | 12. Pause Screen Buttons.mp4
+	(1280, 720) | 13. Pause When Minimized.mp4
+	(1280, 720) | 14. Sound Effects.mp4
+	(1280, 720) | 15. Wrap Up - Putting It All Together.mp4
+06. In-app Purchases
+	(1280, 720) | 01. Section Intro - In-app Purchases.mp4
+	(1280, 720) | 02. New Player Skin.mp4
+	(1280, 720) | 03. Shop Screen.mp4
+	(1280, 720) | 04. IAP Manager.mp4
+	(1280, 720) | 05. Gradle Build.mp4
+	(1280, 720) | 06. Google Play Plugin.mp4
+	(1280, 720) | 07. Connecting To Google.mp4
+	(1280, 720) | 08. Play Console App.mp4
+	(1280, 720) | 09. Querying Product Info.mp4
+	(1280, 720) | 10. Purchase Product.mp4
+	(1280, 720) | 11. Purchases Updated.mp4
+	(1280, 720) | 12. Acknowledging.mp4
+	(1280, 720) | 13. Query Purchases.mp4
+	(1280, 720) | 14. Consume Purchase.mp4
+	(1280, 720) | 15. Android Internal Testing.mp4
+	(1280, 720) | 16. iOS Plugin.mp4
+	(1280, 720) | 17. App Store App.mp4
+	(1280, 720) | 18. Understanding The AP.mp4
+	(1280, 720) | 19. Event Loop.mp4
+	(1280, 720) | 20. Purchasing iOS.mp4
+	(1280, 720) | 21. Restore Purchases.mp4
+	(1280, 720) | 22. Restore Button.mp4
+	(1280, 720) | 23. Wrap Up - In-app Purchases.mp4
+07. Publishing The Game
+	(1280, 720) | 01. Section Intro - Publishing The Game.mp4
+	(1280, 720) | 02. Google Play Store.mp4
+	(1280, 720) | 03. Apple App Store.mp4
+	(1280, 720) | 04. Course Wrap Up - Godot Mobile.mp4
